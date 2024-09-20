@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mariebaillon
 - 👀 I’m interested in Data Science.
-- 🌱 I’m graduating from a Master's in Data Science and I'm looking to apply my knowledge.
+- 🌱 I’m graduating from the Univeristy of Aberdeen with a Master's in Data Science and I'm looking to apply my knowledge.
 - 💞️ I’m looking to collaborate on project with impact on sustainable development.
 - 📫 How to reach me https://www.linkedin.com/in/marie-baillon-25b43610
 - 😄 Pronouns: She/Her
